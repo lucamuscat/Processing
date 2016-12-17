@@ -1,0 +1,7 @@
+//This code prevents an object from exiting the screen
+void borderControl(){
+  if(location.x>=width-35)location.x=width-35;
+  if(location.x<=10)location.x=10;
+  if(location.y>=height-35)location.y=height-35;
+  if(location.y<=10)location.y=10;
+}
