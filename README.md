@@ -1,3 +1,2 @@
 # Processing
-Hi. In this repository you will be seeing my processing projects which I would like to share with you.
-I am still an amatuer so if you can correct me on somethings please get into contact with me. 
+Welcome to my 'Processing' repository. Whlist you are looking around my projects, please take into consideration that I am an amateur. If you see a mistake or something which could have been done better, please send me a message :)
