@@ -1,2 +1,3 @@
-# Processing
-Welcome to my 'Processing' repository. Whlist you are looking around my projects, please take into consideration that I am an amateur. If you see a mistake or something which could have been done better, please send me a message :)
+Processing
+--------------------
+In this repository you may find some small side projects that I worked on using the '[Processing framework](https://processing.org/)' (mostly used to create [generative art](https://en.wikipedia.org/wiki/Generative_art)). 
